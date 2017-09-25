@@ -10,4 +10,4 @@ More info on AWS / Redis: https://www.slideshare.net/AmazonWebServices/elasticac
 
 This is the Redis icon:<img src="https://github.com/kenerbe/icons/blob/master/src/Redis.png" width="600" />end of icon
 
-This is a screen shot: <img src="https://github.com/kenerbe/icons/blob/master/src/NoCache.png" width="600" /> 
+This is a screen shot: <img src="https://github.com/kenerbe/icons/blob/master/src/NoCache.png" /> 
