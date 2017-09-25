@@ -8,4 +8,4 @@
 
 More info on AWS / Redis: https://www.slideshare.net/AmazonWebServices/elasticache-deep-dive-best-practices-and-usage-patterns-march-2017-aws-online-tech-talks
 
-<img src="https://github.com/kenerbe/icons/blob/master/src/Redis.png" width="200" height="200" />
+This is the Redis icon:<img src="https://github.com/kenerbe/icons/blob/master/src/Redis.png" width="200" height="200" />end of icon
